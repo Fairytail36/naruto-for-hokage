@@ -1,0 +1,24 @@
+.header {
+    background: yellow;
+    padding: 20px;
+    text-align: center;
+}
+
+h2 {
+     font-size:40px;
+}
+.donate {
+     background: black;
+     color: white;
+     text-align: center;
+     padding: 10px;
+ }
+.img { display:flex; justify-content:space-around; 
+}
+  .other-candidate{
+      background: orange;
+     color: black;
+     text-align: center;
+     padding: 10px;
+     font-size:25px;
+}
